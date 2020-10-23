@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e7c15e52.chunk.css",
+    "main.js": "./static/js/main.8ff08759.chunk.js",
+    "main.js.map": "./static/js/main.8ff08759.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.615c58b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.615c58b1.js.map",
+    "static/js/2.1278dcf9.chunk.js": "./static/js/2.1278dcf9.chunk.js",
+    "static/js/2.1278dcf9.chunk.js.map": "./static/js/2.1278dcf9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.df5dc3892b62eefd9790abe65bcb675e.js": "./precache-manifest.df5dc3892b62eefd9790abe65bcb675e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.e7c15e52.chunk.css.map": "./static/css/main.e7c15e52.chunk.css.map",
+    "static/js/2.1278dcf9.chunk.js.LICENSE.txt": "./static/js/2.1278dcf9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Фоновая картинка.e8565ed1.jpg",
+    "static/media/enter.svg": "./static/media/enter.50146312.svg",
+    "static/media/library.svg": "./static/media/library.b526604a.svg",
+    "static/media/logo.svg": "./static/media/logo.bbfd7d6b.svg",
+    "static/media/person.svg": "./static/media/person.1427c4f1.svg",
+    "static/media/search.svg": "./static/media/search.b15a2510.svg",
+    "static/media/shoushenk.jpg": "./static/media/shoushenk.9a2d7612.jpg",
+    "static/media/student2.png": "./static/media/student2.d7a776ba.png",
+    "static/media/vodyanoi.jpg": "./static/media/vodyanoi.53077152.jpg",
+    "static/media/world.svg": "./static/media/world.178e9447.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.615c58b1.js",
+    "static/js/2.1278dcf9.chunk.js",
+    "static/css/main.e7c15e52.chunk.css",
+    "static/js/main.8ff08759.chunk.js"
+  ]
+}
