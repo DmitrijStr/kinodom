@@ -1,0 +1,12 @@
+@import url(./__description/sale__descrition.css);
+@import url(./__title/sale__title.css);
+
+@import url(./__text/sale__text.css);
+
+
+@import url(./__link/sale__link.css);
+
+.sale {
+	background-image: url(../../images/saleImg.jpg);
+	height: 700px;
+}

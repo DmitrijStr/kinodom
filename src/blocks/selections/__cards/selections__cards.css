@@ -1,0 +1,8 @@
+.selections__cards {
+	padding-top: 35px;
+	padding-bottom: 136px;
+	display: flex;
+	max-width: 1272px;
+	justify-content: space-between;
+	margin: auto;
+}

@@ -1,0 +1,10 @@
+.main__info-item {
+	display: flex;
+	align-items: start;
+}
+.main__info-item:nth-of-type(2) {
+	padding-left: 31px;
+}
+.main__info-item:last-child {
+	padding-left: 61px;
+}

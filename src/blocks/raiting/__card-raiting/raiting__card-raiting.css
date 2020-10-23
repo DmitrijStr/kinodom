@@ -1,0 +1,10 @@
+.raiting__card-raiting {
+	width: 40px;
+	height: 28px;
+	background-color: #752FD4;
+	text-align: center;
+	position: absolute;
+	top: 8px;
+	left: -4px;
+	z-index: 2;
+}

@@ -1,0 +1,26 @@
+@import url(./__content/raiting__content.css);
+@import url(./__title/raiting__title.css);
+@import url(./__card-container/raiting__card-container.css);
+
+@import url(./__card/raiting__card.css);
+
+
+
+@import url(./__card-image-gradient/raiting__card-image-gradient.css);
+
+
+@import url(./__card-title/raiting__card-title.css);
+@import url(./__card-description/raiting__card-description.css);
+@import url(./__card-info/raiting__card-info.css);
+@import url(./__card-raiting/raiting__card-raiting.css);
+@import url(./__raiting-count/raiting__raiting-count.css);
+@import url(./__card-image/raiting__card-image.css);
+
+@import url(./__card-image-container/raiting__card-image-container.css);
+
+
+
+
+.raiting {
+	background-color: #2F143B;
+}

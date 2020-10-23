@@ -1,0 +1,12 @@
+@import url(./__title/tariff__title.css);
+@import url(./__container/tariff__container.css);
+@import url(./__card-container/tariff__card-container.css);
+@import url(./__card/tariff__card.css);
+@import url(./__card-title/tariff__card-title.css);
+@import url(./__description/tariff__description.css);
+@import url(./__price/tariff__price.css);
+@import url(./__button/tariff__button.css);
+
+.tariff {
+	background-color: #2F143B;
+}

@@ -1,0 +1,21 @@
+/* .raiting__card-image-gradient {
+	display: inline-block;
+	position: relative;    
+	line-height: 0;
+}
+
+.raiting__card-image-gradient:after {
+	content: "";
+	display: block;    
+	width: 100%;
+	height: 100%;    
+	position: absolute;
+	top: 0;      
+	left: 0;   
+
+	background:linear-gradient(93.74deg, rgba(117, 47, 212, 0.32), rgba(47, 143, 212, 0.32));
+}
+
+.raiting__card-image-gradient:after:hover {
+	display: none;
+} */

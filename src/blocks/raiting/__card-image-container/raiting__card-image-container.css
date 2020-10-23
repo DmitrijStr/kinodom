@@ -1,0 +1,25 @@
+.raiting__card-image-container {
+	display: block;
+	position: relative;    
+	line-height: 0;
+	z-index: 0;
+}
+
+
+
+
+.raiting__card-image-container::after {
+	content: "";
+	display: block;    
+	width: 100%;
+	height: 100%;    
+	position: absolute;
+	top: 0;      
+	left: 0;   
+	background:linear-gradient(93.74deg, rgba(117, 47, 212, 0.32), rgba(47, 143, 212, 0.32));
+	z-index: 100;
+}
+
+.raiting__card-image-container:hover::after {
+	display: none;    
+}

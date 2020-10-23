@@ -1,0 +1,9 @@
+@import url(./__cards/selections__cards.css);
+@import url(./__title/selections__title.css);
+@import url(./__card/selections__card.css);
+@import url(./__card-title/selections__card-title.css);
+
+
+.selections {
+	background-color: #2F143B;
+}

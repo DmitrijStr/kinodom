@@ -1,0 +1,7 @@
+.tariff__container {
+	padding-bottom: 125px;
+	display: flex;
+	max-width: 1176px;
+	margin: auto;
+	justify-content: space-between;
+}

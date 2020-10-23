@@ -1,0 +1,7 @@
+.raiting__card-container {
+	padding-top: 35px;
+	display: flex;
+	max-width: 1176px;
+	margin: auto;
+	justify-content: space-between;
+}

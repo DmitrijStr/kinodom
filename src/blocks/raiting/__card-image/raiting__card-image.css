@@ -1,0 +1,7 @@
+.raiting__card-image {
+	filter: grayscale(100%);
+}
+
+.raiting__card-image:hover {
+	filter: none;
+}

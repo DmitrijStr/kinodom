@@ -1,0 +1,16 @@
+@import url(./__description/main__description.css);
+@import url(./__title/main__title.css);
+@import url(./__text/main__text.css);
+@import url(./__button/main__button.css);
+@import url(./__promo/main__promo.css);
+@import url(./__info/main__info.css);
+@import url(./__info-text/main__info-text.css);
+@import url(./__info-item/main__info-item.css);
+@import url(./__info-img/main__info-img.css);
+
+.main {
+	background-image: url(../../images/Фоновая\ картинка.jpg);
+	background-size: cover;
+	height: 735px;
+
+}

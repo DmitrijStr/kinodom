@@ -1,0 +1,11 @@
+.raiting__card-title {
+	margin: 0;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 29.26px;  
+	text-overflow: ellipsis;
+  white-space: nowrap;
+	overflow: hidden;
+	width: 200px;
+	padding-top: 5px;
+}
